@@ -1,8 +1,0 @@
-- venv 券版角青 :  
-  D:\WSHOME> myenv\Scripts\activate
-
-- Django 角青 :  
-  D:\WSHOME> python manage.py runserver
-
-- DJango 包府磊 积己
-  python manage.py createsuperuser
